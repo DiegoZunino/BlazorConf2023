@@ -3,8 +3,9 @@
 
 Se ti stai chiedendo se Blazor è davvero usato in produzione, questa è la sessione che fa per te. Vedremo vantaggi e svantaggi dell’uso del framework in un caso reale, come aggirare le sue limitazioni e perché offre vantaggi non trascurabili rispetto ai suoi competitor.
 
-## Link
+### Link
 
 - Ellycode: https://ellycode.com/
-- Demo keyword recognition: https://diegozunino.it/
+- Upload di grandi file in Blazor WebAssembly: https://blazordev.it/articoli/upload-di-grandi-file-in-blazor-webassembly
+- Keyword recognition con Vosk: https://diegozunino.it/
 - Beta Elly: https://ellycode.com/it/beta/
