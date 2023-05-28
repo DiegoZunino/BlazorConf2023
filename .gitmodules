@@ -1,3 +1,4 @@
 [submodule "Blazor.LargeFileUpload"]
 	path = Blazor.LargeFileUpload
 	url = git@github.com:DiegoZunino/Blazor.LargeFileUpload.git
+	banch = master
